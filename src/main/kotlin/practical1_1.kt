@@ -1,20 +1,21 @@
-fun main(){
-    var a:Int = 22
-    var b:Float = 2.2F
-    var c:Double = 96.36
-    var d:String = "HMS"
-    var e:Char = 'V'
-
-    var f:Double = a.toDouble()
-    println("$f:Int to Double")
-
-    var g:Int = b.toInt()
-    println("$g:Float to Int")
-
-    var m:String = c.toString()
-    println("$m:Double to string")
-
-    var v:String = e.toString()
-    println("$v:Char to String")
-
+fun main() {
+    var a : Int = 22
+    var b = 1.5F //Float
+    var c : Char = 'T'
+    var d : String = "Hello"
+    var e : Boolean = false
+    var f : Double = 1.34374
+    val g : Long = 5545345545
+    val h : Short = -2
+    val i : Byte = 127
+    println("Integer Value: $a")
+    println("Float Value: $b")
+    println("Char Value: $c")
+    println("String Value: $d")
+    println("Boolean Value: $e")
+    println("Double Value: $f")
+    println("Long Value: $g")
+    println("Short Value: $h")
+    println("Byte Value: $i")
+    // println(VARIABLE_NAME :: class.java.typeName) -> return the type of variable
 }

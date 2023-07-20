@@ -1,11 +1,12 @@
-fun main(){
-    println("Enter the number")
-
-    var a1 = readLine()!!.toInt()
-    if(a1%2==0){
-        println("even")
+fun main() {
+    print("enter number: ")
+    var num = readLine()!!.toInt()
+    if(num%2==0)
+    {
+        println("Even!")
     }
-    else{
-        println("odd")
+    else
+    {
+        println("Odd!")
     }
 }
