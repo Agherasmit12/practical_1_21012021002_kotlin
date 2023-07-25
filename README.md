@@ -40,6 +40,8 @@ contentDeepToString() methods, IntArray variable .joinToString() and use in prog
 to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort
 Array of Integer data type without using inbuilt function & with using inbuilt function
 <br/>
+![image](https://github.com/Agherasmit12/practical_1_21012021002_kotlin/assets/98636140/aedeface-fb01-48c7-897d-e168c155976e)
+
 <br/>
 
 
